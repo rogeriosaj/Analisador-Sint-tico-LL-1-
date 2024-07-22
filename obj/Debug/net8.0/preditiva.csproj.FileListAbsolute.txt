@@ -1,0 +1,14 @@
+/home/rogeriosaj/Documents/uenp/preditiva/bin/Debug/net8.0/preditiva
+/home/rogeriosaj/Documents/uenp/preditiva/bin/Debug/net8.0/preditiva.deps.json
+/home/rogeriosaj/Documents/uenp/preditiva/bin/Debug/net8.0/preditiva.runtimeconfig.json
+/home/rogeriosaj/Documents/uenp/preditiva/bin/Debug/net8.0/preditiva.dll
+/home/rogeriosaj/Documents/uenp/preditiva/bin/Debug/net8.0/preditiva.pdb
+/home/rogeriosaj/Documents/uenp/preditiva/obj/Debug/net8.0/preditiva.GeneratedMSBuildEditorConfig.editorconfig
+/home/rogeriosaj/Documents/uenp/preditiva/obj/Debug/net8.0/preditiva.AssemblyInfoInputs.cache
+/home/rogeriosaj/Documents/uenp/preditiva/obj/Debug/net8.0/preditiva.AssemblyInfo.cs
+/home/rogeriosaj/Documents/uenp/preditiva/obj/Debug/net8.0/preditiva.csproj.CoreCompileInputs.cache
+/home/rogeriosaj/Documents/uenp/preditiva/obj/Debug/net8.0/preditiva.dll
+/home/rogeriosaj/Documents/uenp/preditiva/obj/Debug/net8.0/refint/preditiva.dll
+/home/rogeriosaj/Documents/uenp/preditiva/obj/Debug/net8.0/preditiva.pdb
+/home/rogeriosaj/Documents/uenp/preditiva/obj/Debug/net8.0/preditiva.genruntimeconfig.cache
+/home/rogeriosaj/Documents/uenp/preditiva/obj/Debug/net8.0/ref/preditiva.dll
